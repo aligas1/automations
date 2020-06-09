@@ -1,7 +1,7 @@
 ### automations
 bash script Hadoop environment automation
 
-### --------------------------------------
+### ----------------------------------------------------------------------------
 
 before running any scripts run command 
 ```
