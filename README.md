@@ -1,7 +1,7 @@
-### automations
-bash script Hadoop environment automation
+# Automations
+bash scripts to set up a Hadoop environment as well as notes on how to set up virtual machine on VirtualBox
 
-### -------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 before running any scripts run command 
 ```
