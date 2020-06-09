@@ -6,6 +6,9 @@
 cd ~
 cd /opt
 
+# change permissions mode Note, not reccomended to use 777 in production
+sudo chmod 777 .
+
 # answer Yes to Are you sure type questions.
 echo "y" > Yes.txt
 
