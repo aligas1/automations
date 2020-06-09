@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo run-apt update
+sudo apt-get update
 
 # use jd's commands
 
