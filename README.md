@@ -11,4 +11,4 @@ all scripts are intended to run as
 ```
 sudo bash run_script.sh
 ```
-so thaat password must only be entered once in the beginning for all sudo commands
+so that password must only be entered once in the beginning for all sudo commands
